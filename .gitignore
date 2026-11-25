@@ -1,0 +1,24 @@
+# Arquivos gerados pelo Maven
+target/
+
+# Variáveis de ambiente e credenciais locais
+.env
+.env.*
+!.env.example
+
+# Arquivos do IntelliJ IDEA
+.idea/
+*.iml
+
+# Arquivos gerados por IDEs Java
+.classpath
+.project
+.settings/
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
